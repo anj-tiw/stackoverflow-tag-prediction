@@ -67,7 +67,7 @@ https://www.kaggle.com/wiki/HammingLoss
 
 
 ## References :  
-Completed as a part of Applied AI Online Machine Learning Course
+Completed as a part of Applied AI Online Machine Learning Course  
 https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/  
 https://www.appliedaicourse.com/  
 https://www.coursera.org/specializations/deep-learning  
