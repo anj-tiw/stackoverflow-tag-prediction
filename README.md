@@ -66,7 +66,7 @@ The Hamming loss is the fraction of labels that are incorrectly predicted.
 https://www.kaggle.com/wiki/HammingLoss  
 
 
-## References :  
+## References      
 Completed as a part of Applied AI Online Machine Learning Course
   
 https://www.appliedaicourse.com/   
